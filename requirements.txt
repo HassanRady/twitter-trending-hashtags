@@ -1,0 +1,6 @@
+uvicorn==0.17.6
+fastapi==0.78.0
+
+python-dotenv
+
+tweepy==3.9.0
